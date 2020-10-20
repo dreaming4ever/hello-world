@@ -1,4 +1,4 @@
 # hello-world
 testing
 
-It is currently midweek. I was suppose to go to a Bitcoin event today but chose to stay in and watch The Fast and the Furious 6 tonight. Oh! And to also learn how to use Github. I am currently reading about commits and how to make changes. 
+Wow it has been a long time since I have edited this! I am trying out how to make branches and an inspiration from one of our GOV channels!
